@@ -16,6 +16,29 @@ Marzo 13 de 2020 <br/>
 
 ---
 
+## Expected Outcome
+
+<br>
+<a href="https://seebgar.github.io">
+Report
+</a>
+
+<br>
+
+## Download the external APK
+
+<a href="https://github.com/seebgar/adb-commands/blob/master/RollerPlanet.apk">
+Download file named RollerPlanet.apk
+</a>
+
+<p>
+Changes inside main_q*.py may be needed.  
+</p>
+
+```
+EXTERNAL_APPLICATION_PATH
+```
+
 <br>
 
 ## Specifications
